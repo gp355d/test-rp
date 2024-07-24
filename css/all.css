@@ -504,4 +504,8 @@ a{
   .mb-xs-6{
     margin-bottom: 24px;
   }
+  .test{
+    display: flex;
+
+  }
 }
