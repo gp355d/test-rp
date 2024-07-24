@@ -505,6 +505,7 @@ a{
     margin-bottom: 24px;
   }
   .test{
-    display: block;
+    display: flex;
+
   }
 }
