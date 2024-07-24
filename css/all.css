@@ -508,4 +508,7 @@ a{
     display: flex;
 
   }
+  .test2{
+    margin-right: 4px;
+  }
 }
